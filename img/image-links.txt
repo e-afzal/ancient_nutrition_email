@@ -1,47 +1,32 @@
-Video thumbnail:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697208435/video-thumbnail_dejyxb.png
+brain+mood:
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697454756/brain_mood_rrom3o.jpg
 
-Moms:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697208438/support_ebvjqt.png
+buy1get1:
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697454757/buy1get1_h4n7qw.jpg
 
-Mental Health:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697208435/mental-health_huesbj.png
+chicken_soup:
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697454757/chicken_soup_a9sp0n.jpg
 
-Talent community:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131198/talent_pad7l8.png
+footer_logo:
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697454756/footer_logo_zdeh3q.png
 
-Left quote:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131197/quote-open_kdtwdy.png
+icon_money:
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697454756/icon_money_vipgpm.png
 
-Right quote:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131197/quote-close_frmyrf.png
+icon_points:
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697454756/icon_points_i1iovi.png
 
-Heritage month:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697208437/engineer_jhqcaq.png
+icon_shipping:
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697454759/icon_shipping_tdnvq8.png
 
-Header Logo:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131193/logo-header_qrmoov.png
+left-quote:
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697454759/left-quote_lyuiik.png
 
-Youtube icon:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131193/icon-youtube_zefbqd.png
+logo-header:
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697454760/logo-header_xtmoyg.png
 
-Twitter icon:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131193/icon-twitter_smednp.png
+super_greens:
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697454761/super_greens_ay6tan.png
 
-Linkedin icon:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131193/icon-linkedin_saanim.png
-
-Follow us:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131193/follow_gd19vz.png
-
-Hiring:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697208431/hiring_r8lcgz.jpg
-
-Professional:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697208431/professional_gbnk77.jpg
-
-Facebook icon:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131192/icon-facebook_cs4dgt.png
-
-Instagram icon:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131192/icon-instagram_fr184k.png
+womens_vitamin:
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697454761/womens_vitamin_vizyqt.png
